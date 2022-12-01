@@ -9,3 +9,6 @@ What is this game about?
 
 Game download link (latest version):
   https://drive.google.com/file/d/1-IcYHjKdZAI_RxgOCPOAlinygFv6AT9l/view?usp=share_link
+  
+
+Other game files are in different branches of this repository.
